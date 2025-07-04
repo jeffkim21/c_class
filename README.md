@@ -30,7 +30,7 @@ c_class for beginers
      return 0;
    }
 ```
-# Day-1
+# Day-2
 0. Launching the terminal on macOS
     - https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/
 1. Installing Homebrew on  macOS
