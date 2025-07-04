@@ -30,3 +30,12 @@ c_class for beginers
      return 0;
    }
 ```
+# Day-1
+0. Launching the terminal on macOS
+    - https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/
+1. Installing Homebrew on  macOS
+   - https://builtin.com/articles/install-homebrew
+2. Installing GCC on macOS
+   - brew gcc
+3. Edit a file
+   - nano pun.c
