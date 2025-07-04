@@ -33,9 +33,9 @@ c_class for beginers
 # Day-2
 0. Launching the terminal on macOS
     - https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/
-1. Installing Homebrew on  macOS
-   - https://builtin.com/articles/install-homebrew
-2. Installing GCC on macOS
-   - brew gcc
-3. Edit a file
-   - nano pun.c
+1.Installing GCC on macOS
+  1.1 Option-1 (Homebrew)
+   - Step-1: Installing Homebrew (https://builtin.com/articles/install-homebrew)
+   - Step-2: Installing GCC (brew install gcc)
+  1.2 Option-2 (xcode)
+   - xcode-selet --install (https://www.linkedin.com/pulse/how-install-gcc-complete-guide-macos-windows-linux-solomon-okomowho-fixbf)
