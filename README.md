@@ -33,6 +33,7 @@ c_class for beginers
 # Day-2
 0. Launching the terminal on macOS
     - https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/
+
 1.Installing GCC on macOS
  - Option-1 (Using xcode)
    * xcode-selet --install (https://www.linkedin.com/pulse/how-install-gcc-complete-guide-macos-windows-linux-solomon-okomowho-fixbf)
